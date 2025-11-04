@@ -25,17 +25,10 @@ Combino la visión técnica con la estratégica para ayudar a empresas a **cumpl
 ---
 
 ## ⚙️ Tecnologías y herramientas que uso  
-### 🔧 Seguridad & Pentesting
-`Nmap` · `Nessus` · `OpenVAS` · `Burp Suite` · `Metasploit` · `Responder` · `Impacket` · `PingCastle` · `BloodHound` · `CrackMapExec`  
 
-### 💻 Sistemas & Infraestructura
-`Linux` · `Windows Server` · `Active Directory` · `Wazuh` · `SIEM` · `M365 Security` · `FortiGate` · `Sophos`  
-
-### 📊 Normativa & Consultoría
-`ENS` · `ISO/IEC 27001` · `NIS2` · `MAGERIT` · `Análisis de Riesgos` · `Plan Director de Ciberseguridad`  
-
-### 🧩 Desarrollo & Automatización
-`Python` · `Bash` · `PowerShell` · `JavaScript` · `Node.js` · `HTML5` · `CSS3`  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,js,html,css,git,github,vscode,docker,java,react,bootstrap,mysql,firebase,postman,nodejs" />
+</p>
 
 ---
 
