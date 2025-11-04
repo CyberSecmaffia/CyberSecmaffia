@@ -18,7 +18,7 @@ Combino la visión técnica con la estratégica para ayudar a empresas a **cumpl
 ---
 
 ## 🎯 Formación y Certificaciones  
-🎓 Máster en Ciberseguridad  
+🎓 Máster Dirección de Ciberseguridad, Hacking Ético y Seguridad Ofensiva
 💼 Experiencia en Pentesting, Blue Team, Red Team y consultoría ENS/ISO/NIS2  
 💀 Preparando la certificación **CPTS (Hack The Box)**  
 
